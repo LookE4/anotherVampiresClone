@@ -1,0 +1,3 @@
+if (lvl < lvlMax) {
+	lvl++;
+}
